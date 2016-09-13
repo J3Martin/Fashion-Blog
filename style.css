@@ -1,0 +1,88 @@
+#mainleft{
+	float:left;
+	width:65%;
+	margin-left: 20px;
+	color:#888;
+}
+aside{
+	float:right;
+	width:30%;
+	margin-top:6em;
+	color:#888;
+}
+.redtext{
+	color:#C00;
+
+}
+#mainleft article h3 a {
+	color:#C00;
+}
+.navbar{
+	float:left;
+	width:16.6%;
+	list-style:none;
+	background-color:black;
+	height:50px;
+	font-size:22px;
+	text-align:center;
+	color:white;
+	margin:0 auto;
+	border:2px solid #fff;
+	box-sizing: border-box;
+	padding-top: 10px;
+}
+.navbar a{
+	text-decoration: none;
+	color:#FFF;
+}
+
+body{
+	width:80%;
+	padding:10%;
+	margin-width:1024px;
+	margin-top:0px;
+	margin-right:auto;
+	margin-bottom:0px;
+	margin-left:auto;
+}
+footer{
+        clear:both;
+		float:left;
+		font-size:12pt;
+}
+#span1{
+	color:red;
+	font-size:3em;
+	padding:.5em;
+}
+#span2{
+	color:#888;
+	font-size:1.5em;
+	padding:.5em;
+}
+
+.Hugeletter{
+	font-size:6em;
+	line-height:1;
+	color:#999;
+	margin:-.1em .1em 0 -.1em;
+	vertical-align:text-bottom;
+	float:left;
+}
+footer nav a {
+	color:#C00;
+}
+.dates{
+	font-size:30px;
+	color:#A9A9A9;
+
+}
+.article{
+	font-size:30px;
+	color:black;
+
+}
+.popularposts a {
+	color:red;
+	text-decoration:none;
+}
